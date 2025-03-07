@@ -1,5 +1,5 @@
 
-          Hi, I'm Lourd.
+          Hi, I'm Lourd. How are you?
                __
               /oo\
              |    |
@@ -13,3 +13,5 @@
           \----------/     /
             //    \\_____/
            W       W
+
+
