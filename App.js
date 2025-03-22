@@ -30,7 +30,7 @@ const TypingHeader = ({ text }) => {
 const App = () => {
   return (
     <div className="container">
-      <TypingHeader text="hello there, i'm lou." />
+      <TypingHeader text="hello there, i'm lou."/>
 
       <div className="content">
         <p>i am an insurance practitioner.</p>
